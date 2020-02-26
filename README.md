@@ -1,7 +1,6 @@
 # All About Objects
  
 
-README MARKDOWN FILE
 ##Objects##
 Created By Thais Nascimento, Elmer Osorio Jr, Ilunga Lebreton, Abigail Ezedonmwen, Sebastian vivas, Amanda Mills-Hubbard
 
